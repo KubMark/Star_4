@@ -1,4 +1,5 @@
 #               Задание 5
+
 free_mailbox = ['yandex.ru', 'mail.ru', 'gmail.com', 'yahoo.com', 'rambler.ru']
 user_mail = input('Вводим почту ')
 
