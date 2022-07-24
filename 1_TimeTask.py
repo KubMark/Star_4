@@ -8,3 +8,4 @@ for symbol in time:
         minute = int(minute)
         minute += 15
 print(f'{hour}:{minute}')
+

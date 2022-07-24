@@ -10,3 +10,4 @@ elif user_mailbox in free_mailbox:
     print('Это почта, она на бесплатном домене')
 else:
     print('Это почта, она на корпоратином домене')
+
